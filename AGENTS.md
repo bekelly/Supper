@@ -1,5 +1,8 @@
 # Bayshore Labs repository instructions
 
+The private [Bayshore Labs conventions plugin](https://chatgpt.com/plugins/plugins_6ad4d995e27c8191bd55adc99eace154) version 1.1.0 (release `pluginrel_6ad6b3e5902c8191a75f76434421971e`) is the canonical governance source for Bayshore product versioning. Harbor company policy revision 7, Harbor/docs/BAYSHORE-VERSIONING.md, and repository versioning policy blocks are distribution copies of the same approved rule, not competing authorities. This clarification leaves the numerical convention and historical release identities unchanged.
+
+
 <!-- HARBOR:BAYSHORE-POLICY:BEGIN -->
 Bayshore policy revision: 7
 Integrity SHA-256: 17aecf8075e6da4c081b74322317666ff7235da5f6a25d7b4cb97b0f5d03da76
